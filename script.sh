@@ -1,4 +1,5 @@
-$ad = "Semih";
-$soyad = "Okumuş";
+#!bin/bash
+ad="Semih"
+soyad="Okumuş"
 
-echo $ad + $soyad
+echo "Merhaba benim adım '$ad' soyadım '$soyad' tanıştığıma memnun oldum"
